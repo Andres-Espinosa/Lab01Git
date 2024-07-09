@@ -1,0 +1,5 @@
+public class Persona
+{
+	public int Id {Get; Set;}
+	public string FullName {Get; Set;}
+}
